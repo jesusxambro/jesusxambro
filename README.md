@@ -9,9 +9,9 @@ As a software engineer I enjoy learning the different approaches to tackle a pro
 
 ### Some things about me:
 
-* :technologist: I'm currently working on front-end technologies.
+* :technologist: I'm currently working on learning about React.
 * :book: I'm finishing up a Bachelor's in Computer Science.
-* :camera: Street photography is my favorite. 
+* :camera: I'm a photographer and street photography is my favorite. 
 * :grey_question: Ask me a question! I love to share what I've learned.
 
 
