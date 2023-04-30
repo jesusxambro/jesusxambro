@@ -9,7 +9,7 @@ As a software engineer I enjoy learning the different approaches to tackle a pro
 
 ### Some things about me:
 
-* :technologist: I'm currently learning Databases at uni.
+* :technologist: I'm currently learning Machine Learning
 * :book: I'm finishing up a Master's in Computer Science.
 * :camera: I'm a photographer and street photography is my favorite genre. 
 * :grey_question: Ask me a question! I love to share what I've learned.
