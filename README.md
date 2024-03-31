@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jesusxambro@gmail.com**
 
-- ⚡ Fun fact **I'm a photographer and street photography is my favorite genre.**
+- ⚡ Fun fact **I'm an aquarium hobbyist!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
