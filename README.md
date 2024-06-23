@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software engineer. I love solving problems, photography, and aquariums.</h3>
 
 
-- 🔭 I’m currently working on [FishFolio](https://github.com/jesusxambro/logisticsWatcher)
+- 🔭 I’m currently working on [LogisticsWatcher](https://github.com/jesusxambro/logisticsWatcher) A Full Stack implementation of the observer pattern using React, Express, and WebSockets!
 
 - 🌱 I’m currently learning **Next.js**
 
