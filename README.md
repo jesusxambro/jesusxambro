@@ -9,6 +9,8 @@
 - 💬 Ask me about **test driven development**
 
 - 📫 How to reach me **jesusxambro@gmail.com**
+- 
+- 🎖️ I am a U.S. Army Veteran.
 
 - ⚡ Fun fact **I'm an aquarium hobbyist!**
 
