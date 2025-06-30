@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **test driven development**
 
-- 📫 How to reach me **jesusxambro@gmail.com**
+- 📫 How to reach me **jesusxambro@proton.me**
 
 - 🎖️ I am a U.S. Army Veteran.
 
